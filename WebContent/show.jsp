@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>La page du hello world</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h2>Hello, world.</h2>
+
+<h2>${message } comment va?</h2>
 </body>
 </html>
